@@ -66,7 +66,7 @@ void free_matrix(int** array, int r) //행렬 메모리 해제
 
 int main() 
 {
-    printf("[----- [LeeSeungHun] [2023041045] -----]\n");
+    printf("[----- [LeeSeungHun] [2023041045] -----]\n"); //second commit
 
     int rows, cols; //변수 행과 열 선언
 
